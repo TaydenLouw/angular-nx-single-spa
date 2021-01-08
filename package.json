@@ -42,7 +42,7 @@
     "core-js": "^2.5.4",
     "rxjs": "~6.5.4",
     "single-spa": "^5.5.2",
-    "single-spa-angular": "^4.1.0",
+    "single-spa-angular": "4.9.1",
     "zone.js": "^0.10.2"
   },
   "devDependencies": {
